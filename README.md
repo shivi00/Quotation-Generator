@@ -1,1 +1,1 @@
-Urban-garbanzo site provides the advices which generate randomly
+This site generates the advices randomly.
