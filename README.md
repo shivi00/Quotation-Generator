@@ -4,7 +4,7 @@ This app gives advice randomly
 
 ## Run app
 
-Click on the link:
+Copy Paste the link:
 ```bash
   https://lambent-stardust-9dd2a7.netlify.app
 ```
